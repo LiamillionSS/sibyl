@@ -1,7 +1,7 @@
 # sibyl
 
 <!-- BADGES:START -->
-[![Lint & Test](https://github.com/noctuum/sibyl/actions/workflows/ci.yml/badge.svg)](https://github.com/noctuum/sibyl/actions/workflows/ci.yml) [![codecov](https://codecov.io/github/noctuum/sibyl/graph/badge.svg)](https://codecov.io/github/noctuum/sibyl) [![Bash](https://img.shields.io/badge/bash-5%2B-green)](https://www.gnu.org/software/bash/) [![AUR](https://img.shields.io/badge/AUR-automation-orange)](https://aur.archlinux.org/) [![License](https://img.shields.io/badge/license-BSD--3--Clause-blue)](LICENSE)
+[![Lint & Test](https://github.com/LiamillionSS/sibyl/actions/workflows/ci.yml/badge.svg)](https://github.com/LiamillionSS/sibyl/actions/workflows/ci.yml) [![codecov](https://codecov.io/github/LiamillionSS/sibyl/graph/badge.svg)](https://codecov.io/github/LiamillionSS/sibyl) [![Bash](https://img.shields.io/badge/bash-5%2B-green)](https://www.gnu.org/software/bash/) [![AUR](https://img.shields.io/badge/AUR-automation-orange)](https://aur.archlinux.org/) [![License](https://img.shields.io/badge/license-BSD--3--Clause-blue)](LICENSE)
 <!-- BADGES:END -->
 
 Automated AUR package updates from a single GitHub repo.  
@@ -12,7 +12,7 @@ Automated AUR package updates from a single GitHub repo.
 ## Packages
 
 <!-- PACKAGES:START -->
-![Check Updates](https://github.com/noctuum/sibyl/actions/workflows/check-updates.yml/badge.svg) ![packages](https://img.shields.io/badge/packages-10%2F10-brightgreen)
+![Check Updates](https://github.com/LiamillionSS/sibyl/actions/workflows/check-updates.yml/badge.svg) ![packages](https://img.shields.io/badge/packages-10%2F10-brightgreen)
 
 | Package | Version | Strategy | Updated | Status |
 |---------|---------|----------|---------|--------|
