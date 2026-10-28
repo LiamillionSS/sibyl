@@ -12,13 +12,13 @@ Automated AUR package updates from a single GitHub repo.
 ## Packages
 
 <!-- PACKAGES:START -->
-![Check Updates](https://github.com/LiamillionSS/sibyl/actions/workflows/check-updates.yml/badge.svg) ![packages](https://img.shields.io/badge/packages-6%2F10-red)
+![Check Updates](https://github.com/LiamillionSS/sibyl/actions/workflows/check-updates.yml/badge.svg) ![packages](https://img.shields.io/badge/packages-5%2F10-red)
 
 | Package | Version | Strategy | Updated | Status |
 |---------|---------|----------|---------|--------|
 | [kio-s3-git](https://aur.archlinux.org/packages/kio-s3-git) | r499.2ce74b7 | git-latest | 2026-10-04 | ❌ failed |
 | [kio-s3](https://aur.archlinux.org/packages/kio-s3) | 1.0.2 | kde-tarball | 2026-04-24 | ✅ up to date |
-| [kqalc-bin](https://aur.archlinux.org/packages/kqalc-bin) | 0.2.2 | github-release | — | ✅ up to date |
+| [kqalc-bin](https://aur.archlinux.org/packages/kqalc-bin) | 0.2.2 | github-release | — | ❌ failed |
 | [liblinear](https://aur.archlinux.org/packages/liblinear) | 2.50 | webpage-scrape | — | ✅ up to date |
 | [marp-cli-bin](https://aur.archlinux.org/packages/marp-cli-bin) | 4.5.1 | github-release | 2026-09-06 | ✅ up to date |
 | [memos-bin](https://aur.archlinux.org/packages/memos-bin) | 0.31.0 | github-release | 2026-09-19 | ✅ up to date |
